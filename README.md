@@ -1,4 +1,5 @@
-#Simple Survey Response Visualizer
+Simple Survey Response Visualizer
+----------------------------------
 
 This is a simple python script to help visualise the responses from surveys.
 
